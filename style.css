@@ -115,7 +115,7 @@ body {
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 75%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #ecf0f1;
@@ -130,7 +130,7 @@ body {
 
 .month {
   position: absolute;
-  left: 15%;
+  left: 20%;
   top: 80%;
   width: 80px;
   text-align: center;
@@ -144,7 +144,7 @@ body {
 
 .year {
   position: absolute;
-  right: 15%;
+  right: 20%;
   top: 80%;
   width: 70px;
   text-align: center;
